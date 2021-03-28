@@ -1621,6 +1621,9 @@ line-height: 28px;
 text-align: center;
 color: #555555;
 }
+.onboarding-card_form {
+  position: relative;
+}
 /* page joined } */
 
 /* page { */
